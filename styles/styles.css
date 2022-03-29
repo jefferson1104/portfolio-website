@@ -10,7 +10,7 @@
 /* VARIABLES */
 :root {
   --color-primary: #191d2b;
-  --color-secondary: #00a8ff;
+  --color-secondary: #53bfd2;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -26,7 +26,7 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #00a8ff;
+  --color-secondary: #53bfd2;
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
